@@ -14,6 +14,7 @@ The left button changes the temperature at which the fan turns off, and the righ
 <br>
 
 <img src="images/fc01.jpg" alt="Alt Text" width="400">
+<img src="images/fc02.jpg" alt="Alt Text" width="200">
 <br>
 
 
