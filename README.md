@@ -8,11 +8,16 @@ The fan controller works without any USB or Internet connection and allows the u
 all relevant data and set all necessary parameters.<br>
 Additionally, the user may connect to the module via Wifi and remotely view more data and change settings, if desired.<br><br>
 The left button changes the temperature at which the fan turns off, and the right button changes the temperature at which the fan runs at full speed.<br>
+<img src="images/fancurve.png" alt="fancurve" width="400">
+<br>
+
+<br>
+
+<img src="images/fc01.jpg" alt="Alt Text" width="400">
+<br>
 
 
 <br>
-<img src="images/fc01.jpg" alt="Alt Text" width="400">
-
 <img src="designfiles/KiCAD/schematic.png" alt="Alt Text" width="500">
 
 
