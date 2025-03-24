@@ -1,5 +1,6 @@
 # fancontroller
 ESPHome based PWM fan controller based on ESP32andmore module
+![My Image](images/fc01.jpg)
 
 
 ![My Image](designfiles/KiCAD/schematic.png)
