@@ -14,21 +14,9 @@ Additionally, the user may connect to the module via Wifi and remotely view more
 </div>
 
 
-<div style="display: flex;">
-  <img src="images/fc01.jpg" alt="fc01" style="width:50%;">
-  <img src="images/fc02.jpg" alt="fc02" style="width:50%;">
-</div>
 The left button changes the temperature at which the fan turns off<br>
 the right button changes the temperature at which the fan runs at full speed.<br>
 <img src="images/fancurve.png" alt="fancurve" width="400">
-<br>
-
-<br>
-
-
-
-<img src="images/fc01.jpg" alt="Alt Text" width="200">
-<img src="images/fc02.jpg" alt="Alt Text" width="200">
 <br>
 
 
