@@ -7,11 +7,19 @@ and adds an expansion module with a display and two rotary encoders.<br>
 The fan controller works without any USB or Internet connection and allows the user to view
 all relevant data and set all necessary parameters.<br>
 Additionally, the user may connect to the module via Wifi and remotely view more data and change settings, if desired.<br><br>
-The left button changes the temperature at which the fan turns off, and the right button changes the temperature at which the fan runs at full speed.<br>
+
+<div style="display: flex;">
+  <img src="images/fc01.jpg" alt="fc01" style="width:50%;">
+  <img src="images/fc02.jpg" alt="fc02" style="width:50%;">
+</div>
+The left button changes the temperature at which the fan turns off<br>
+the right button changes the temperature at which the fan runs at full speed.<br>
 <img src="images/fancurve.png" alt="fancurve" width="400">
 <br>
 
 <br>
+
+
 
 <img src="images/fc01.jpg" alt="Alt Text" width="200">
 <img src="images/fc02.jpg" alt="Alt Text" width="200">
