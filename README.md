@@ -27,11 +27,10 @@ the right button changes the temperature at which the fan runs at full speed.<br
 <br>
 <h4>Parts</h4>
 <img src="images/enc.jpg" alt="encoder" width="200">
-<br>
 <a href="https://www.amazon.com/dp/B07T3672VK">
 https://www.amazon.com/dp/B07T3672VK</a><br>
+
 <img src="images/display.png" alt="display" width="200">
-<br>
 <a href="https://www.amazon.com/dp/B0C9LJ898Z">
 https://www.amazon.com/dp/B0C9LJ898Z</a><br>
 
