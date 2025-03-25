@@ -8,6 +8,12 @@ The fan controller works without any USB or Internet connection and allows the u
 all relevant data and set all necessary parameters.<br>
 Additionally, the user may connect to the module via Wifi and remotely view more data and change settings, if desired.<br><br>
 
+<div align="center">
+  <img width = "50%" src="images/fc01.jpg">
+<img width = "50%" src="images/fc02.jpg">
+</div>
+
+
 <div style="display: flex;">
   <img src="images/fc01.jpg" alt="fc01" style="width:50%;">
   <img src="images/fc02.jpg" alt="fc02" style="width:50%;">
