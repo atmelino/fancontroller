@@ -9,7 +9,7 @@ all relevant data and set all necessary parameters.<br>
 Additionally, the user may connect to the module via Wifi and remotely view more data and change settings, if desired.<br><br>
 
 <div align="center">
-    <img width = "30%" src="images/fc01.jpg">
+    <img width = "40%" src="images/fc01.jpg">
     <img width = "30%" src="images/fc02.jpg">
 </div>
 
