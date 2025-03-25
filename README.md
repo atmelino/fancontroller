@@ -16,13 +16,20 @@ Additionally, the user may connect to the module via Wifi and remotely view more
 
 The left button changes the temperature at which the fan turns off<br>
 the right button changes the temperature at which the fan runs at full speed.<br>
-<img src="images/fancurve.png" alt="fancurve" width="400">
+<div align="center">
+    <img src="images/fancurve.png" alt="fancurve" width="400">
+</div>
 <br>
 
 
 <br>
-<img src="designfiles/KiCAD/schematic.png" alt="Alt Text" width="500">
+<h4>Circuit Diagram</h4>
+<div align="center">
+    <img src="designfiles/KiCAD/schematic.png" alt="Alt Text" width="500">
+</div>
+
 <br>
+<h4>Parts</h4>
 <img src="images/enc.jpg" alt="encoder" width="200">
 <br>
 <a href="https://www.amazon.com/dp/B07T3672VK">
