@@ -9,8 +9,8 @@ all relevant data and set all necessary parameters.<br>
 Additionally, the user may connect to the module via Wifi and remotely view more data and change settings, if desired.<br><br>
 
 <div align="center">
-  <img width = "30%" src="images/fc01.jpg">
-<img width = "30%" src="images/fc02.jpg">
+    <img width = "30%" src="images/fc01.jpg">
+    <img width = "30%" src="images/fc02.jpg">
 </div>
 
 
@@ -20,14 +20,10 @@ the right button changes the temperature at which the fan runs at full speed.<br
     <img src="images/fancurve.png" alt="fancurve" width="400">
 </div>
 <br>
-
-
-<br>
 <h4>Circuit Diagram</h4>
 <div align="center">
     <img src="designfiles/KiCAD/schematic.png" alt="Alt Text" width="500">
 </div>
-
 <br>
 <h4>Parts</h4>
 <img src="images/enc.jpg" alt="encoder" width="200">
@@ -39,4 +35,7 @@ https://www.amazon.com/dp/B07T3672VK</a><br>
 <a href="https://www.amazon.com/dp/B0C9LJ898Z">
 https://www.amazon.com/dp/B0C9LJ898Z</a><br>
 
+<h4>Source Code</h4>
+<a href="https://github.com/atmelino/fancontroller/tree/main/sourcecode/ESPHome">
+https://github.com/atmelino/fancontroller/tree/main/sourcecode/ESPHome</a><br>
 
